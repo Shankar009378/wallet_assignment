@@ -1,16 +1,15 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # ScreenShots:-
-![Screenshot of the App](../assets/screenshot1.png)
-![Screenshot of the App](../assets/screenshot2.png)
-![Screenshot of the App](../assets/screenshot3.png)
-![Screenshot of the App](../assets/screenshot4.png)
-![Screenshot of the App](../assets/screenshot5.png)
-![Screenshot of the App](../assets/screenshot6.png)
-![Screenshot of the App](../assets/screenshot7.png)
+![Screenshot of the App](./src/assets/screenshot1.png)
+![Screenshot of the App](./src/assets/screenshot2.png)
+![Screenshot of the App](./src/assets/screenshot3.png)
+![Screenshot of the App](./src/assets/screenshot4.png)
+![Screenshot of the App](./src/assets/screenshot5.png)
+![Screenshot of the App](./src/assets/screenshot6.png)
+![Screenshot of the App](./src/assets/screenshot7.png)
 
 # Getting Started
-
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
